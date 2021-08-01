@@ -1,6 +1,6 @@
 hello git! hello world!
-hello git! hello world! 222222222222
-hello git! hello world! aaaaaaaaaaaaaaaaaa
+hello git! hello world! 2222
+hello git! hello world! aaaa
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
